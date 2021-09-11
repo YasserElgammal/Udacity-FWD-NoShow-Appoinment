@@ -1,0 +1,9 @@
+Resources:
+--
+# this helps me alot
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+# After second review:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.pie.html
+
+
